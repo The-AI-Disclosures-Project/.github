@@ -4,7 +4,7 @@
 
 The [AI Disclosures Project](https://ai-disclosures.org/) is an independent, public-interest research and prototyping initiative working to build more open, competitive, and participatory AI markets.
 
-Led by **Tim O'Reilly and Ilan Strauss** and hosted at [Code for Science & Society](https://codeforscience.org/), we bring together researchers, technologists, policymakers, and industry participants to develop the protocols, technical standards, and economic mechanisms needed for a healthier AI ecosystem.
+Led by **Tim O'Reilly and Ilan Strauss** and hosted at [Code for Science & Society](https://codeforscience.org/), we bring together researchers, technologists, policymakers, and industry participants to develop the protocols, infrastructure, and economic mechanisms needed for a healthier AI ecosystem.
 
 ## Our Mission
 
@@ -16,7 +16,7 @@ Our work focuses on developing the technical and institutional foundations that 
 
 ## What We Do
 
-- **Open Protocols & Standards:** Develop interoperable standards that reduce platform lock-in and enable independent AI systems to communicate and exchange information.
+- **Open Protocols:** Develop interoperable protocols that reduce platform lock-in and enable independent AI systems to communicate and exchange information.
 - **Research:** Investigate AI market structures, transparency, attribution, data access, and the economic implications of emerging AI technologies.
 - **Prototyping:** Build and evaluate technical approaches to open, decentralized AI infrastructure.
 - **Convening:** Bring together researchers, developers, industry leaders, and policymakers to coordinate on shared technical and governance challenges.
@@ -26,7 +26,7 @@ Our work focuses on developing the technical and institutional foundations that 
 
 ### Open Memory Protocol Initiative (OMPI)
 
-The [Open Memory Protocol Initiative](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) is a collaborative effort to develop an open standard for portable and interoperable AI-agent memory.
+The [Open Memory Protocol Initiative](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) is a collaborative effort to develop an open protocol for portable and interoperable AI-agent memory.
 
 The initiative explores how memory can move between agents, applications, and providers without tying users to any single memory system.
 
@@ -57,7 +57,7 @@ Explore our [research and publications](https://ai-disclosures.org/research).
 
 We welcome participation from researchers, developers, companies, and organizations interested in building an open and interoperable AI ecosystem.
 
-You can contribute by participating in technical discussions, reviewing protocol proposals, sharing research, developing implementations, or collaborating on emerging standards.
+You can contribute by participating in technical discussions, reviewing protocol proposals, sharing research, developing implementations, or collaborating on emerging protocols.
 
 Explore our repositories to find active projects and opportunities to contribute.
 
@@ -65,7 +65,7 @@ Explore our repositories to find active projects and opportunities to contribute
 
 - **Website:** https://ai-disclosures.org/
 - **Research:** https://ai-disclosures.org/research
-- **Prototypes & Standards:** https://ai-disclosures.org/prototypes
+- **Prototypes:** https://ai-disclosures.org/prototypes
 - **Publications & Commentary:** https://ai-disclosures.org/writings
 - **Talks & Presentations:** https://ai-disclosures.org/talks
 - **GitHub:** https://github.com/The-AI-Disclosures-Project
